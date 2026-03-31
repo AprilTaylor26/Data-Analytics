@@ -1,4 +1,5 @@
 📊 Data Analytics Portfolio Repository
+
 This repository showcases a complete end‑to‑end data analytics workflow using Python and R. It includes data cleaning, exploratory visualization, predictive modeling, and prescriptive analytics. Each notebook demonstrates clear, well‑commented code and reflects industry‑aligned analytical practices.
 
 📁 Repository Contents
