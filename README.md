@@ -1,8 +1,10 @@
-📊 Data Analytics Portfolio Repository
+# Data Analytics Portfolio Repository
 
 This repository showcases a complete end‑to‑end data analytics workflow using Python and R. It includes data cleaning, exploratory visualization, predictive modeling, and prescriptive analytics. Each notebook demonstrates clear, well‑commented code and reflects industry‑aligned analytical practices.
 
-📁 Repository Contents
+---
+
+# Repository Contents
 Data Cleaning & Visualization
 - Data Cleaning & Visualization (P).ipynb
 Python workflow for cleaning raw data, handling missing values, removing outliers, and generating visualizations (histograms, bar charts, scatter plots, heatmaps).
@@ -19,7 +21,9 @@ Python notebook performing optimization, sensitivity analysis, and scenario eval
 - Prescriptive Analysis (R).ipynb
 R notebook replicating the prescriptive workflow, including sensitivity analysis on key features such as GDP per capita.
 
-🎯 Skills Demonstrated
+---
+
+# Skills Demonstrated
 - Data cleaning and preprocessing
 - Outlier detection and handling
 - Exploratory data visualization
@@ -29,14 +33,18 @@ R notebook replicating the prescriptive workflow, including sensitivity analysis
 - Cross‑language implementation (Python & R)
 - Clear, professional commenting and reproducible workflows
 
-🚀 How to Use This Repository
+---
+
+# How to Use This Repository
 - Clone the repository
 - Open any notebook in JupyterLab or VS Code
 - Run cells sequentially to reproduce the analysis
 - Python notebooks require standard libraries such as pandas, numpy, matplotlib, seaborn, and scikit‑learn
 - R notebooks require packages such as tidyverse, ggplot2, and caret
 
-📌 Purpose
+---
+
+# Purpose
 This repository is part of my growing data engineering and analytics portfolio, demonstrating my ability to:
 - Work across multiple languages
 - Build clean, reliable analytical workflows
